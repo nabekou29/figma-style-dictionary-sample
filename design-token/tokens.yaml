@@ -33,7 +33,7 @@ font-size:
     $value: 20
 
 font-weight:
-  $type: fontWeight
+  $type: number
   normal:
     $value: 400
   bold:
