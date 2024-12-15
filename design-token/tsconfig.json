@@ -4,11 +4,10 @@
     "target": "ESNext",
     "module": "ESNext",
     "lib": ["ESNext"],
+    "sourceMap": true,
     "strict": true,
-    "moduleResolution": "node",
-    "baseUrl": "src",
+    "moduleResolution": "NodeNext",
     "esModuleInterop": true,
-    "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },

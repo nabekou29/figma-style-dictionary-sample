@@ -1,5 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
+  "type": "module",
   "scripts": {
     "build": "tsx build.ts",
     "lint": "biome lint --write",
